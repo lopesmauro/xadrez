@@ -34,14 +34,14 @@ Este programa simula os movimentos de peças de xadrez Torre, Bispo, Rainha e Ca
 ```bash
 git clone https://github.com/lopesmauro/xadrez.git
 cd xadrez
-``
+```
 
 
 2. Compile o programa:
 
 ```bash
 gcc xadrez.c -o xadrez
-``
+```
 
 
 3. Execute o programa:
